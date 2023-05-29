@@ -1,2 +1,2 @@
-# Recycling-Web-application
-A Prototype of app Recycling is for SIT744 Ass2
+# RecyclableWast-Web-application
+A Prototype of the App RecyclableWaste is for SIT744 Ass2
